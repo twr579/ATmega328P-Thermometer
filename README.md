@@ -16,6 +16,7 @@ Enclosure was designed in Fusion 360.
 * [Right Angle Slide Switch](https://www.digikey.com/en/products/detail/c-k/OS102011MA1QN1/1981430)
 * [L4931CZ33-AP Voltage Regulator](https://www.digikey.com/en/products/detail/stmicroelectronics/L4931CZ33-AP/1038129)
 * [16MHz Crystal Oscillator](https://www.sparkfun.com/products/536)
+* [Temperature Sensor - TMP36](https://www.sparkfun.com/products/10988)
 * 2x Single Digit 7-segment Display
 * 3x 10uF Electrolytic Capacitor
 * 2x 22pF Ceramic Capacitor
