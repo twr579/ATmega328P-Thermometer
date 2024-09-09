@@ -32,3 +32,6 @@ Enclosure was designed in Fusion 360.
 
 ## Enclosure
 ![Enclosure](images/enclosure.png)
+
+## Final Product - Without Enclosure
+![Final Product without Enclosure](images/finalproduct.JPEG)
