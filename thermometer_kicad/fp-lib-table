@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Thermometer")(type "KiCad")(uri "${KIPRJMOD}/Thermometer.pretty")(options "")(descr ""))
+)
